@@ -1,0 +1,24 @@
+@import 'tailwindcss';
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+@source '../**/*.blade.php';
+@source '../**/*.js';
+@source '../**/*.jsx';
+
+@theme {
+    --font-sans: 'Inter', 'Instrument Sans', ui-sans-serif, system-ui, sans-serif;
+    
+    --color-brand-primary: var(--color-indigo-600);
+    --color-brand-secondary: var(--color-slate-600);
+    --color-brand-accent: var(--color-indigo-500);
+    
+    --radius-premium: 1rem;
+    --shadow-premium: 0 10px 15px -3px rgba(0, 0, 0, 0.05), 0 4px 6px -2px rgba(0, 0, 0, 0.02);
+}
+
+@layer base {
+    body {
+        @apply bg-slate-50 text-slate-900;
+    }
+}
