@@ -95,4 +95,4 @@ Distribusi di bawah **MIT License**. Lihat `LICENSE` untuk informasi lebih lanju
 ## 👨‍💻 Author
 **[Iqbal Maulana]**
 - GitHub: [@yourusername](https://github.com/yourusername)
-- Intagram: [Iqbal Maulana](https://www.instagram.com/tawwabin_im/)
+- Instagram: [Iqbal Maulana](https://www.instagram.com/tawwabin_im/)
