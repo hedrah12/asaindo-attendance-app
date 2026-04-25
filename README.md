@@ -93,6 +93,6 @@ Distribusi di bawah **MIT License**. Lihat `LICENSE` untuk informasi lebih lanju
 ---
 
 ## 👨‍💻 Author
-**[Your Name]**
+**[Iqbal Maulana]**
 - GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourname)
+- Intagram: [Iqbal Maulana](https://www.instagram.com/tawwabin_im/)
