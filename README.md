@@ -22,23 +22,11 @@ Solusi manajemen SDM (Human Resource Management) lengkap untuk pelacakan kehadir
 <h3 align="center">📱 Mobile Preview</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/65fb7c9a-0e26-49b8-ac61-352b3d3fb9e8" width="300"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1a636a80-12ad-44cc-9e6c-b2e06f1d8f7e" width="300"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d7344014-4740-4269-90c0-eb67c3f9301c" width="300"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1471cdab-b927-4819-b7fe-e8ca0e08db06" width="300"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/985f4410-d25c-4c58-a2a2-cd472338007a" width="300"/>
+  <img src="https://github.com/user-attachments/assets/65fb7c9a-0e26-49b8-ac61-352b3d3fb9e8" width="180"/>
+  <img src="https://github.com/user-attachments/assets/1a636a80-12ad-44cc-9e6c-b2e06f1d8f7e" width="180"/>
+  <img src="https://github.com/user-attachments/assets/d7344014-4740-4269-90c0-eb67c3f9301c" width="180"/>
+  <img src="https://github.com/user-attachments/assets/1471cdab-b927-4819-b7fe-e8ca0e08db06" width="180"/>
+  <img src="https://github.com/user-attachments/assets/985f4410-d25c-4c58-a2a2-cd472338007a" width="180"/>
 </p>
 ---
 
